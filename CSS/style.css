@@ -1,0 +1,46 @@
+body {
+	font-family: Helvetica;
+}
+
+#info_form {
+	width: 50%;
+	margin-top: 10px;
+	text-decoration: none;
+	font-size: 15px;
+}
+
+#row {
+	width: 100%;
+	padding-top:20px;
+	font-family: Helvetica;
+}
+
+#button {
+	width: 100%;
+	font-family: Helvetica;
+}
+
+h1.Info {
+	font-family: Helvetica;
+	font-size: 30px;
+	width: 100%;
+	text-align: left;
+}
+
+p.information {
+	font-family: Helvetica;
+	font-size: 30px;
+	width: 100%;
+	text-align: left;
+}
+
+#input {
+	font-size: 20px;
+}
+
+.images{
+	display:inline-block;
+	position: absolute;
+	width:200px; 
+	height:200px;
+}
